@@ -1,0 +1,22 @@
+[
+  {
+    "provider": "groq",
+    "model": "openai/gpt-oss-20b",
+    "reply": "A token is a single unit of text\u2014such as a word, sub\u2011word, or punctuation mark\u2014that a language model uses as its basic building block for processing and generating language.",
+    "input_tokens": 77,
+    "output_tokens": 74,
+    "input_price_per_m": 0.075,
+    "output_price_per_m": 0.3,
+    "cost_usd": 2.7975000000000002e-05
+  },
+  {
+    "provider": "openrouter",
+    "model": "nvidia/nemotron-3.5-lightning:free",
+    "reply": "Tokens are the basic text units\u2014such as words, subwords, or characters\u2014that AI models convert into numerical representations for processing and generation.",
+    "input_tokens": 23,
+    "output_tokens": 325,
+    "input_price_per_m": 0.08,
+    "output_price_per_m": 0.2,
+    "cost_usd": 6.683999999999999e-05
+  }
+]
