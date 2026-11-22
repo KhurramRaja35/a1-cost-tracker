@@ -69,9 +69,9 @@ USD per 1 million tokens (paid tier) and are set in the PRICES dictionary
 in `tracker.py`:
 
 - Groq openai/gpt-oss-20b: $0.075 input, $0.30 output (source: Groq's
-  models page, checked on [11-22-2026])
+  models page, checked on 11-22-2026)
 - OpenRouter nvidia/nemotron-3.5-lightning: $0.08 input, $0.20
-  output (source: OpenRouter model page, checked on [DATE])
+  output (source: OpenRouter model page, checked on 11-22-2026)
 
 Both calls ran on free tiers, so they cost nothing. As the assignment
 requires, the cost column shows what each call would cost at the paid
